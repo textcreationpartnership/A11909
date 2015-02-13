@@ -4314,6 +4314,7 @@ hath in it, Chorus, ne yet the fifth Acte.</hi>
                <head>THE FIRTE
 ACTE.</head>
                <stage>OEdipus. Antigone.</stage>
+               <sp>
                <l>
                   <seg rend="decorInit">D</seg>Eare Daughter, vnto Father blynde</l>
                <l>a Staffe of ſteady ſtay,</l>
@@ -4354,12 +4355,8 @@ Where <hi>Zethus</hi> with his ruffling Crew of Gallantes young and ſtoute</l>
                <l>Where buſhie bloudied brambles ſhow which way the Bull her drew:</l>
                <l>Nere where dame <hi>Ino</hi> from a Rocke her ſelfe in Sea downe threw.</l>
                <l>So that poore mother though ſhe ment t'auoyde one fault by flight:</l>
-               <l>Yet ſhe therby a worſe procu<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>'d, while like a ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>rly wight</l>
-               <l>She bother ſelfe and eke her ſonne from <hi>Scyron</hi> hurled downe</l>
+               <l>Yet ſhe therby a worſe procur'd, while like a ſeely wight</l>
+               <l>She both her ſelfe and eke her ſonne from <hi>Scyron</hi> hurled downe</l>
                <l>Entending both her ſelfe and him in foaming Sea to drowne.</l>
                <l>Oh happy, yea thryſe happy they, that had ſo good an bap:</l>
                <l>And whom ſuch mothers pitiful carſt daudled in theyr lap.</l>
@@ -4411,9 +4408,12 @@ Wherby the Crowne vſurped is, and he by murther ſlayne.</l>
                <l>With raking pawes doth hale and pull, which grieues my conſcience moſt?</l>
                <l>Doſt thou not ſee how he my face beſcratcheth tyrant wyſe?</l>
                <l>Tel mee (my Daughter) haſt thou ſeene Ghoſtes in ſuch griefly guyſe?</l>
-               <l>
-                  <hi>Antig</hi> I ſee &amp; marke each thing ful well. Good father leaue this mind.</l>
+               </sp>
+               <sp>
+               <speaker>Antig</speaker>
+               <l>I ſee &amp; marke each thing ful well. Good father leaue this mind.</l>
                <l>And take a better if you can: from this your ſelfe vnwynd.</l>
+               </sp>
                <sp>
                   <speaker>Oed.</speaker>
                   <l>O what a beaſtly cowardiſe is in this breaſt of myne?</l>
@@ -15091,11 +15091,7 @@ Myght quenched bee with bloude of one, then aſke I none at all,</l>
                   <speaker>ME.</speaker>
                   <l>Yet linger eger anguiſhe yet to ſlea this chylde of thyne.</l>
                   <l>Ronne not to raſhe with haſty ſpeede, this dolefull day is myne:</l>
-                  <l>The time that wee obtayned haue of</l>
-               </sp>
-               <sp>
-                  <speaker>Greon,</speaker>
-                  <l>wee enioy.</l>
+                  <l>The time that wee obtayned haue of <hi>Creon,</hi> wee enioy.</l>
                </sp>
                <sp>
                   <speaker>IA.</speaker>
